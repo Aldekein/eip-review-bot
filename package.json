@@ -41,7 +41,7 @@
         "before-after-hook": "^3.0.2",
         "bottleneck": "^2.19.5",
         "encoding": "^0.1.13",
-        "esbuild": "^0.21.0",
+        "esbuild": "^0.25.0",
         "front-matter": "^4.0.2",
         "isomorphic-git": "^1.24.5",
         "jest": "^29.5.0",
