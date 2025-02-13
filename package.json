@@ -29,7 +29,7 @@
         "@typescript-eslint/parser": "^7.0.0",
         "eslint": "8.57.0",
         "eslint-config-prettier": "^9.1.0",
-        "prettier": "3.2.5"
+        "prettier": "3.5.1"
     },
     "dependencies": {
         "@octokit/fixtures": "^22.0.6",
